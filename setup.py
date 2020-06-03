@@ -106,7 +106,7 @@ setup(
         'protobuf>=3.7,<4',
         'pyarrow>=0.16,<0.17',
         'six>=1.12,<2',
-        'tensorflow-gpu,
+        'tensorflow-gpu==2.1,
         'tensorflow-metadata>=0.22,<0.23',
         'tensorflow-transform>=0.22,<0.23',
         'tfx-bsl>=0.22,<0.23',
